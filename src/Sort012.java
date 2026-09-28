@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Sort012 {
+public class ShortArray {
     static void swap(int[] arr, int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];
